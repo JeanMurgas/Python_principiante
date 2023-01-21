@@ -11,7 +11,7 @@ _suma= sum(list(range(1,10)))
 #print(_suma)
 
 #print(colores)
-colores[1]='yellow'
+#colores[1]='yellow'
 #print(colores)
 #print(dir(colores))
 
